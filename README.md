@@ -22,7 +22,7 @@ Users should be able to:
 ## 🔗 Links
 
 * Solution URL: https://www.frontendmentor.io/profile/lidianofeliciobr
-* Live Site URL: https://seuusuario.github.io/blog-preview-card/
+* Live Site URL:  https://lihsousa.github.io/blog-preview-card/
 
 ---
 
